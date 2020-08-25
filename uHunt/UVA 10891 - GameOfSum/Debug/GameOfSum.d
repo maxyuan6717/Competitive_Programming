@@ -1,0 +1,1 @@
+GameOfSum.d: ../GameOfSum.cpp

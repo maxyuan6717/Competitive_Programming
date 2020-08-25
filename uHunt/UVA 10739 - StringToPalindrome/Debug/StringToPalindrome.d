@@ -1,0 +1,1 @@
+StringToPalindrome.d: ../StringToPalindrome.cpp

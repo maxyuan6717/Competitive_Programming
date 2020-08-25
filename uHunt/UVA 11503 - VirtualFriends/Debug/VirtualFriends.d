@@ -1,0 +1,1 @@
+VirtualFriends.d: ../VirtualFriends.cpp

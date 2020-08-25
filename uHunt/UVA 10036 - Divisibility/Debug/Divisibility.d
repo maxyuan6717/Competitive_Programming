@@ -1,0 +1,1 @@
+Divisibility.d: ../Divisibility.cpp

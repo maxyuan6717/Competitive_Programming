@@ -1,0 +1,1 @@
+ComeAndGo.d: ../ComeAndGo.cpp

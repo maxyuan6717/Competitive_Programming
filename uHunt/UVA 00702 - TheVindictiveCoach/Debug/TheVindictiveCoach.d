@@ -1,0 +1,1 @@
+TheVindictiveCoach.o: ../TheVindictiveCoach.cpp

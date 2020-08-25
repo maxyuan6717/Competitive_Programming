@@ -1,0 +1,1 @@
+MonkeysAndBamboo.d: ../MonkeysAndBamboo.cpp

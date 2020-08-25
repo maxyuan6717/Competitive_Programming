@@ -1,0 +1,1 @@
+SumItUp.d: ../SumItUp.cpp

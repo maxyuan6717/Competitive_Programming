@@ -1,0 +1,1 @@
+SplittingNumbers.d: ../SplittingNumbers.cpp

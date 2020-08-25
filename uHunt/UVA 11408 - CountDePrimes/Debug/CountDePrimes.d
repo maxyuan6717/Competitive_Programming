@@ -1,0 +1,1 @@
+CountDePrimes.d: ../CountDePrimes.cpp

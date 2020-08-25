@@ -1,0 +1,1 @@
+InterstarTransport.d: ../InterstarTransport.cpp

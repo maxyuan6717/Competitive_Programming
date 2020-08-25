@@ -1,0 +1,1 @@
+LightingAway.d: ../LightingAway.cpp

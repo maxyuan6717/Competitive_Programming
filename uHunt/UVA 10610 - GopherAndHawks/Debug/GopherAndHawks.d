@@ -1,0 +1,1 @@
+GopherAndHawks.d: ../GopherAndHawks.cpp

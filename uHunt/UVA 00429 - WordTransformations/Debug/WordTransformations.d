@@ -1,0 +1,1 @@
+WordTransformations.d: ../WordTransformations.cpp

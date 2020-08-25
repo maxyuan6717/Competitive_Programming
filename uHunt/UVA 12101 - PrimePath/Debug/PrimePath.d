@@ -1,0 +1,1 @@
+PrimePath.o: ../PrimePath.cpp

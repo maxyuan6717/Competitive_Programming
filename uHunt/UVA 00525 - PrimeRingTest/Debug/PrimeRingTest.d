@@ -1,0 +1,1 @@
+PrimeRingTest.d: ../PrimeRingTest.cpp

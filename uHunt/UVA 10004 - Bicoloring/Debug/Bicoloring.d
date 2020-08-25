@@ -1,0 +1,1 @@
+Bicoloring.d: ../Bicoloring.cpp

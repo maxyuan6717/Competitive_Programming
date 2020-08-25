@@ -1,0 +1,1 @@
+AsLongAsILearnILive.d: ../AsLongAsILearnILive.cpp

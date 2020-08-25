@@ -1,0 +1,1 @@
+Fire.d: ../Fire.cpp

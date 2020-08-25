@@ -1,0 +1,1 @@
+LittleBishops.d: ../LittleBishops.cpp

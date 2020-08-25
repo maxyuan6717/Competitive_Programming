@@ -1,0 +1,1 @@
+AGentlemansAgreement.d: ../AGentlemansAgreement.cpp

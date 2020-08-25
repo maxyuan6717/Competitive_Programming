@@ -1,0 +1,1 @@
+WeddingShopping.d: ../WeddingShopping.cpp

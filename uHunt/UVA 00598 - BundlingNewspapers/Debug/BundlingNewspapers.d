@@ -1,0 +1,1 @@
+BundlingNewspapers.d: ../BundlingNewspapers.cpp

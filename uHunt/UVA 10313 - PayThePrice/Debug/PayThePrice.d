@@ -1,0 +1,1 @@
+PayThePrice.d: ../PayThePrice.cpp

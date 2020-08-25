@@ -1,0 +1,1 @@
+Squares.d: ../Squares.cpp

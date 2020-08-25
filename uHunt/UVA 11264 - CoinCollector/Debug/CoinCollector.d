@@ -1,0 +1,1 @@
+CoinCollector.d: ../CoinCollector.cpp

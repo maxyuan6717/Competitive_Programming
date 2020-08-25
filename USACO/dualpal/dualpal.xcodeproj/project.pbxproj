@@ -1,0 +1,248 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		5EF6EBBF1FAF73CA00422E34 /* dualpal.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5EF6EBBE1FAF73CA00422E34 /* dualpal.cpp */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		5EF6EBB91FAF73CA00422E34 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		5EF6EBBB1FAF73CA00422E34 /* dualpal */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = dualpal; sourceTree = BUILT_PRODUCTS_DIR; };
+		5EF6EBBE1FAF73CA00422E34 /* dualpal.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = dualpal.cpp; sourceTree = "<group>"; };
+		5EF6EBC51FAF74EB00422E34 /* dualpal.in */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = dualpal.in; sourceTree = "<group>"; };
+		5EF6EBC61FAF74F200422E34 /* dualpal.out */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = dualpal.out; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		5EF6EBB81FAF73CA00422E34 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		5EF6EBB21FAF73C900422E34 = {
+			isa = PBXGroup;
+			children = (
+				5EF6EBBD1FAF73CA00422E34 /* dualpal */,
+				5EF6EBBC1FAF73CA00422E34 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		5EF6EBBC1FAF73CA00422E34 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5EF6EBBB1FAF73CA00422E34 /* dualpal */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		5EF6EBBD1FAF73CA00422E34 /* dualpal */ = {
+			isa = PBXGroup;
+			children = (
+				5EF6EBBE1FAF73CA00422E34 /* dualpal.cpp */,
+				5EF6EBC51FAF74EB00422E34 /* dualpal.in */,
+				5EF6EBC61FAF74F200422E34 /* dualpal.out */,
+			);
+			path = dualpal;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		5EF6EBBA1FAF73CA00422E34 /* dualpal */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5EF6EBC21FAF73CA00422E34 /* Build configuration list for PBXNativeTarget "dualpal" */;
+			buildPhases = (
+				5EF6EBB71FAF73CA00422E34 /* Sources */,
+				5EF6EBB81FAF73CA00422E34 /* Frameworks */,
+				5EF6EBB91FAF73CA00422E34 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = dualpal;
+			productName = dualpal;
+			productReference = 5EF6EBBB1FAF73CA00422E34 /* dualpal */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		5EF6EBB31FAF73C900422E34 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0710;
+				ORGANIZATIONNAME = MaxYuan;
+				TargetAttributes = {
+					5EF6EBBA1FAF73CA00422E34 = {
+						CreatedOnToolsVersion = 7.1.1;
+					};
+				};
+			};
+			buildConfigurationList = 5EF6EBB61FAF73C900422E34 /* Build configuration list for PBXProject "dualpal" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 5EF6EBB21FAF73C900422E34;
+			productRefGroup = 5EF6EBBC1FAF73CA00422E34 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				5EF6EBBA1FAF73CA00422E34 /* dualpal */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		5EF6EBB71FAF73CA00422E34 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5EF6EBBF1FAF73CA00422E34 /* dualpal.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		5EF6EBC01FAF73CA00422E34 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		5EF6EBC11FAF73CA00422E34 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		5EF6EBC31FAF73CA00422E34 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		5EF6EBC41FAF73CA00422E34 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		5EF6EBB61FAF73C900422E34 /* Build configuration list for PBXProject "dualpal" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5EF6EBC01FAF73CA00422E34 /* Debug */,
+				5EF6EBC11FAF73CA00422E34 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5EF6EBC21FAF73CA00422E34 /* Build configuration list for PBXNativeTarget "dualpal" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5EF6EBC31FAF73CA00422E34 /* Debug */,
+				5EF6EBC41FAF73CA00422E34 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 5EF6EBB31FAF73C900422E34 /* Project object */;
+}

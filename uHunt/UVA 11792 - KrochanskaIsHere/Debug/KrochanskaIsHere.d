@@ -1,0 +1,1 @@
+KrochanskaIsHere.d: ../KrochanskaIsHere.cpp

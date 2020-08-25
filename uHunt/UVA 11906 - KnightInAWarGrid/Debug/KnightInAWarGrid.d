@@ -1,0 +1,1 @@
+KnightInAWarGrid.d: ../KnightInAWarGrid.cpp

@@ -1,0 +1,1 @@
+HomerSimpson.d: ../HomerSimpson.cpp

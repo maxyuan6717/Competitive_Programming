@@ -1,0 +1,1 @@
+PeriodicStrings.d: ../PeriodicStrings.cpp

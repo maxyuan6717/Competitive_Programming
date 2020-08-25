@@ -1,0 +1,1 @@
+SettlersOfCatan.d: ../SettlersOfCatan.cpp

@@ -1,0 +1,1 @@
+Compromise.d: ../Compromise.cpp

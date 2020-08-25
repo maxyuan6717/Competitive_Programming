@@ -1,0 +1,1 @@
+BombsNoMines.d: ../BombsNoMines.cpp

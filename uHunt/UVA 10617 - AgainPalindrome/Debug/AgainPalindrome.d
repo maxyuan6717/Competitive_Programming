@@ -1,0 +1,1 @@
+AgainPalindrome.d: ../AgainPalindrome.cpp

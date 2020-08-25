@@ -1,0 +1,1 @@
+LocalizedSumming.d: ../LocalizedSumming.cpp

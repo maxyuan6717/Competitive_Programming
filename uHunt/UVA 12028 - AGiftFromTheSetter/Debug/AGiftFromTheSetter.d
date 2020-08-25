@@ -1,0 +1,1 @@
+AGiftFromTheSetter.d: ../AGiftFromTheSetter.cpp

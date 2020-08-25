@@ -1,0 +1,1 @@
+PowerStrings.d: ../PowerStrings.cpp

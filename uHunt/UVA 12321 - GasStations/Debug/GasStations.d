@@ -1,0 +1,1 @@
+GasStations.o: ../GasStations.cpp

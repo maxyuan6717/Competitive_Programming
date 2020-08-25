@@ -1,0 +1,1 @@
+AnnoyingPaintingTool.o: ../AnnoyingPaintingTool.cpp

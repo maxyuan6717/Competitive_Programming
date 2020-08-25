@@ -1,0 +1,1 @@
+SpreadingTheNews.d: ../SpreadingTheNews.cpp

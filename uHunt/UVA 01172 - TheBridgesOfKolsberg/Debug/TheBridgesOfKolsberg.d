@@ -1,0 +1,1 @@
+TheBridgesOfKolsberg.o: ../TheBridgesOfKolsberg.cpp

@@ -1,0 +1,1 @@
+GettingGold.d: ../GettingGold.cpp

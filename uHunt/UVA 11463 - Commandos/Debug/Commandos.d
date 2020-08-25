@@ -1,0 +1,1 @@
+Commandos.d: ../Commandos.cpp

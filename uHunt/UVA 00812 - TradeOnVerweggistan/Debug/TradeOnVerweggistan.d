@@ -1,0 +1,1 @@
+TradeOnVerweggistan.o: ../TradeOnVerweggistan.cpp

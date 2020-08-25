@@ -1,0 +1,1 @@
+LongestRun.d: ../LongestRun.cpp

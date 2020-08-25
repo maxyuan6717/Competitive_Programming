@@ -1,0 +1,1 @@
+TightWords.d: ../TightWords.cpp

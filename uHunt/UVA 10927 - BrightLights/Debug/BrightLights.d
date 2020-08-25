@@ -1,0 +1,1 @@
+BrightLights.d: ../BrightLights.cpp

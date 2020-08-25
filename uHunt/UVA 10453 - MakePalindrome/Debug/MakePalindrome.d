@@ -1,0 +1,1 @@
+MakePalindrome.d: ../MakePalindrome.cpp

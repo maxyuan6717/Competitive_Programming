@@ -1,0 +1,1 @@
+SimpleEquations.d: ../SimpleEquations.cpp

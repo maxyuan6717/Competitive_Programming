@@ -1,0 +1,1 @@
+StickerCollectorRobot.d: ../StickerCollectorRobot.cpp

@@ -1,0 +1,1 @@
+TreasureHunt.d: ../TreasureHunt.cpp

@@ -1,0 +1,248 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		5EC936581FC5D85B00D9D769 /* rectbarn.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5EC936571FC5D85B00D9D769 /* rectbarn.cpp */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		5EC936521FC5D85B00D9D769 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		5EC936541FC5D85B00D9D769 /* rectbarn */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = rectbarn; sourceTree = BUILT_PRODUCTS_DIR; };
+		5EC936571FC5D85B00D9D769 /* rectbarn.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = rectbarn.cpp; sourceTree = "<group>"; };
+		5EC9365E1FC5D8AD00D9D769 /* rectbarn.in */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = rectbarn.in; sourceTree = "<group>"; };
+		5EC9365F1FC5D8B300D9D769 /* rectbarn.out */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = rectbarn.out; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		5EC936511FC5D85B00D9D769 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		5EC9364B1FC5D85B00D9D769 = {
+			isa = PBXGroup;
+			children = (
+				5EC936561FC5D85B00D9D769 /* rectbarn */,
+				5EC936551FC5D85B00D9D769 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		5EC936551FC5D85B00D9D769 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5EC936541FC5D85B00D9D769 /* rectbarn */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		5EC936561FC5D85B00D9D769 /* rectbarn */ = {
+			isa = PBXGroup;
+			children = (
+				5EC936571FC5D85B00D9D769 /* rectbarn.cpp */,
+				5EC9365E1FC5D8AD00D9D769 /* rectbarn.in */,
+				5EC9365F1FC5D8B300D9D769 /* rectbarn.out */,
+			);
+			path = rectbarn;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		5EC936531FC5D85B00D9D769 /* rectbarn */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5EC9365B1FC5D85B00D9D769 /* Build configuration list for PBXNativeTarget "rectbarn" */;
+			buildPhases = (
+				5EC936501FC5D85B00D9D769 /* Sources */,
+				5EC936511FC5D85B00D9D769 /* Frameworks */,
+				5EC936521FC5D85B00D9D769 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = rectbarn;
+			productName = rectbarn;
+			productReference = 5EC936541FC5D85B00D9D769 /* rectbarn */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		5EC9364C1FC5D85B00D9D769 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0710;
+				ORGANIZATIONNAME = MaxYuan;
+				TargetAttributes = {
+					5EC936531FC5D85B00D9D769 = {
+						CreatedOnToolsVersion = 7.1.1;
+					};
+				};
+			};
+			buildConfigurationList = 5EC9364F1FC5D85B00D9D769 /* Build configuration list for PBXProject "rectbarn" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 5EC9364B1FC5D85B00D9D769;
+			productRefGroup = 5EC936551FC5D85B00D9D769 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				5EC936531FC5D85B00D9D769 /* rectbarn */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		5EC936501FC5D85B00D9D769 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5EC936581FC5D85B00D9D769 /* rectbarn.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		5EC936591FC5D85B00D9D769 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.13;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		5EC9365A1FC5D85B00D9D769 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.13;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		5EC9365C1FC5D85B00D9D769 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		5EC9365D1FC5D85B00D9D769 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		5EC9364F1FC5D85B00D9D769 /* Build configuration list for PBXProject "rectbarn" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5EC936591FC5D85B00D9D769 /* Debug */,
+				5EC9365A1FC5D85B00D9D769 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5EC9365B1FC5D85B00D9D769 /* Build configuration list for PBXNativeTarget "rectbarn" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5EC9365C1FC5D85B00D9D769 /* Debug */,
+				5EC9365D1FC5D85B00D9D769 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 5EC9364C1FC5D85B00D9D769 /* Project object */;
+}

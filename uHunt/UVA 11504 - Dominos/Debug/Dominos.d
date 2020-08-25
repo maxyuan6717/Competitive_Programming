@@ -1,0 +1,1 @@
+Dominos.d: ../Dominos.cpp

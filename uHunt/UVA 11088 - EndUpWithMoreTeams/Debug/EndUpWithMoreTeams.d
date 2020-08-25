@@ -1,0 +1,1 @@
+EndUpWithMoreTeams.o: ../EndUpWithMoreTeams.cpp

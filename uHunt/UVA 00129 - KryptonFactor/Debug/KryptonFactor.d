@@ -1,0 +1,1 @@
+KryptonFactor.d: ../KryptonFactor.cpp

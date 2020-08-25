@@ -1,0 +1,1 @@
+SuperSale.d: ../SuperSale.cpp

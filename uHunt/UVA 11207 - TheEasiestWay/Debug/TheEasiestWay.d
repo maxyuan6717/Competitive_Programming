@@ -1,0 +1,1 @@
+TheEasiestWay.d: ../TheEasiestWay.cpp

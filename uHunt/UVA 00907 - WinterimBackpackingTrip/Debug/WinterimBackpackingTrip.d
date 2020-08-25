@@ -1,0 +1,1 @@
+WinterimBackpackingTrip.d: ../WinterimBackpackingTrip.cpp

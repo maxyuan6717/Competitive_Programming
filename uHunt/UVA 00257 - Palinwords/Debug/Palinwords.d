@@ -1,0 +1,1 @@
+Palinwords.d: ../Palinwords.cpp

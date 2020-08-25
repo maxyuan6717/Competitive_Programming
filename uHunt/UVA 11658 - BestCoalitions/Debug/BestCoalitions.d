@@ -1,0 +1,1 @@
+BestCoalitions.d: ../BestCoalitions.cpp

@@ -1,0 +1,1 @@
+IsBiggerSmarter.d: ../IsBiggerSmarter.cpp

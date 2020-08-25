@@ -1,0 +1,1 @@
+Vacation.d: ../Vacation.cpp

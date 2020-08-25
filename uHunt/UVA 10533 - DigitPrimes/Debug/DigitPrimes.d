@@ -1,0 +1,1 @@
+DigitPrimes.d: ../DigitPrimes.cpp

@@ -1,0 +1,1 @@
+ConsanguineCalculations.d: ../ConsanguineCalculations.cpp

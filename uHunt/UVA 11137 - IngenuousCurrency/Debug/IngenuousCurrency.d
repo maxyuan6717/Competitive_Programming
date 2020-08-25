@@ -1,0 +1,1 @@
+IngenuousCurrency.d: ../IngenuousCurrency.cpp

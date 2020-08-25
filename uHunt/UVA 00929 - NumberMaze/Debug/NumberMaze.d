@@ -1,0 +1,1 @@
+NumberMaze.d: ../NumberMaze.cpp

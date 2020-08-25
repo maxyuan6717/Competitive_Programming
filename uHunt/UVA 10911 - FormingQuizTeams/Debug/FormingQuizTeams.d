@@ -1,0 +1,1 @@
+FormingQuizTeams.d: ../FormingQuizTeams.cpp

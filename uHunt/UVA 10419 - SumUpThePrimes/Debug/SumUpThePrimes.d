@@ -1,0 +1,1 @@
+SumUpThePrimes.d: ../SumUpThePrimes.cpp

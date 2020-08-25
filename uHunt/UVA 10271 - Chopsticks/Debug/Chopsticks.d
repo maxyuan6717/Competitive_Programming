@@ -1,0 +1,1 @@
+Chopsticks.o: ../Chopsticks.cpp

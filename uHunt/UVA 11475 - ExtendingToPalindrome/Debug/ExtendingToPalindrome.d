@@ -1,0 +1,1 @@
+ExtendingToPalindrome.d: ../ExtendingToPalindrome.cpp

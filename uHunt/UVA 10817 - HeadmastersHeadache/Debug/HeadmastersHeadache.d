@@ -1,0 +1,1 @@
+HeadmastersHeadache.o: ../HeadmastersHeadache.cpp

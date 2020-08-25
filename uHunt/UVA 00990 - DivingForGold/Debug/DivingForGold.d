@@ -1,0 +1,1 @@
+DivingForGold.d: ../DivingForGold.cpp

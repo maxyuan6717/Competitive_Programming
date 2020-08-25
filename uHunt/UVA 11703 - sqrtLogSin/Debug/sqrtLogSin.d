@@ -1,0 +1,1 @@
+sqrtLogSin.d: ../sqrtLogSin.cpp

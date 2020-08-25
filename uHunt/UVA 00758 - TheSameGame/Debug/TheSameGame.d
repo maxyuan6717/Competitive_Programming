@@ -1,0 +1,1 @@
+TheSameGame.d: ../TheSameGame.cpp

@@ -1,0 +1,1 @@
+DovesAndBombs.d: ../DovesAndBombs.cpp

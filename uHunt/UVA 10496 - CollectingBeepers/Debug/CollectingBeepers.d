@@ -1,0 +1,1 @@
+CollectingBeepers.d: ../CollectingBeepers.cpp

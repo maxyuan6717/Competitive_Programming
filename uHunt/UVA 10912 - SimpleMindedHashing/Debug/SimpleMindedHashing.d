@@ -1,0 +1,1 @@
+SimpleMindedHashing.d: ../SimpleMindedHashing.cpp

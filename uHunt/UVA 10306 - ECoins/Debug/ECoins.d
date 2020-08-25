@@ -1,0 +1,1 @@
+ECoins.d: ../ECoins.cpp

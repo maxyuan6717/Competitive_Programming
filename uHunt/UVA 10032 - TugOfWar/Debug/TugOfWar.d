@@ -1,0 +1,1 @@
+TugOfWar.d: ../TugOfWar.cpp

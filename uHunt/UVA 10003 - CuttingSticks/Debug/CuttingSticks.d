@@ -1,0 +1,1 @@
+CuttingSticks.d: ../CuttingSticks.cpp

@@ -1,0 +1,1 @@
+ShoppingTrip.d: ../ShoppingTrip.cpp

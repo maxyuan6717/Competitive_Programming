@@ -1,0 +1,1 @@
+AhoyPirates.d: ../AhoyPirates.cpp

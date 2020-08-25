@@ -1,0 +1,1 @@
+PrinceAndPrincess.d: ../PrinceAndPrincess.cpp

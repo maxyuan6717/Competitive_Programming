@@ -1,0 +1,1 @@
+ChineseCheckers.d: ../ChineseCheckers.cpp

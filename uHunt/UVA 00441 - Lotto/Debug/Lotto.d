@@ -1,0 +1,1 @@
+Lotto.d: ../Lotto.cpp

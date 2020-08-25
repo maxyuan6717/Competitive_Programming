@@ -1,0 +1,1 @@
+TheSultansSuccessors.d: ../TheSultansSuccessors.cpp

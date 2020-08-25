@@ -1,0 +1,1 @@
+SemiPrimeHNumbers.d: ../SemiPrimeHNumbers.cpp

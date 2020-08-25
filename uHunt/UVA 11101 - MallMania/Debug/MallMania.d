@@ -1,0 +1,1 @@
+MallMania.d: ../MallMania.cpp

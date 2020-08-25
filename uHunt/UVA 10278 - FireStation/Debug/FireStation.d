@@ -1,0 +1,1 @@
+FireStation.o: ../FireStation.cpp

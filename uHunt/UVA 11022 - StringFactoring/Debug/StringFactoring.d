@@ -1,0 +1,1 @@
+StringFactoring.d: ../StringFactoring.cpp

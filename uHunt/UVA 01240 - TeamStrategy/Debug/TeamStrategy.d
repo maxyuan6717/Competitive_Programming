@@ -1,0 +1,1 @@
+TeamStrategy.o: ../TeamStrategy.cpp

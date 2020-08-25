@@ -1,0 +1,1 @@
+LongestPalindrome.d: ../LongestPalindrome.cpp

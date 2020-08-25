@@ -1,0 +1,1 @@
+BasicWallMaze.d: ../BasicWallMaze.cpp

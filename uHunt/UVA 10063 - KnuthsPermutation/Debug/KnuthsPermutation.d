@@ -1,0 +1,1 @@
+KnuthsPermutation.d: ../KnuthsPermutation.cpp

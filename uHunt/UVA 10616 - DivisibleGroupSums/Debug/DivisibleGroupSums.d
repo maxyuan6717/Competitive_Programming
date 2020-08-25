@@ -1,0 +1,1 @@
+DivisibleGroupSums.d: ../DivisibleGroupSums.cpp

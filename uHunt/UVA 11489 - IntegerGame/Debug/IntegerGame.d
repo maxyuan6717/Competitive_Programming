@@ -1,0 +1,1 @@
+IntegerGame.d: ../IntegerGame.cpp

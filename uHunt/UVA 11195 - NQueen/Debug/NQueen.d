@@ -1,0 +1,1 @@
+NQueen.d: ../NQueen.cpp

@@ -1,0 +1,1 @@
+Stamps.d: ../Stamps.cpp

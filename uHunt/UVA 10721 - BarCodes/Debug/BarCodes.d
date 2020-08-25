@@ -1,0 +1,1 @@
+BarCodes.o: ../BarCodes.cpp

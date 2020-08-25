@@ -1,0 +1,1 @@
+CriticalLinks.d: ../CriticalLinks.cpp

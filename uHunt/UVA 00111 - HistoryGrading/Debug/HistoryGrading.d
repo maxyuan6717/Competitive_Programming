@@ -1,0 +1,1 @@
+HistoryGrading.d: ../HistoryGrading.cpp

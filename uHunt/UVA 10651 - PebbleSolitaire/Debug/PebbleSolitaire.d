@@ -1,0 +1,1 @@
+PebbleSolitaire.d: ../PebbleSolitaire.cpp

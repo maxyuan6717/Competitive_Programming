@@ -1,0 +1,1 @@
+GrazingCow.d: ../GrazingCow.cpp

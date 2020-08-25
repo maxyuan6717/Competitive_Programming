@@ -1,0 +1,1 @@
+EasyProblem.d: ../EasyProblem.cpp

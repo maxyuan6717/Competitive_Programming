@@ -1,0 +1,1 @@
+DominosSolitaire.d: ../DominosSolitaire.cpp

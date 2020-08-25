@@ -1,0 +1,1 @@
+GameShowMath.d: ../GameShowMath.cpp

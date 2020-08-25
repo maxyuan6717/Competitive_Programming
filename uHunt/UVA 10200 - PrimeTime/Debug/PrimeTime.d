@@ -1,0 +1,1 @@
+PrimeTime.d: ../PrimeTime.cpp
